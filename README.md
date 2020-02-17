@@ -22,21 +22,21 @@ On Canvas announcement, it says that we need to submit 4 things.
 ## File Structure
 ```
 IEMS308_Assignment2
-├── README.md 							: This document.
-├── source_code.ipynb 						: Code for this assignment. Recommend openning this rather than py file. Recommended
-├── source_code.html						: Same as source code.ipynb but in HTML format. Recommended
-├── source_code.py 						: Same as source code.ipynb but in Python format. Not Recommended
-├── Report.pdf 							: Report on this assignment 2. This also includes Executive Summary.
-├── Executive Summary.pdf 					: Copy of Executive Summary of the report.
+├── README.md 						: This document.
+├── source_code.ipynb 					: Code for this assignment. Recommend openning this rather than py file. Recommended
+├── source_code.html					: Same as source code.ipynb but in HTML format. Recommended
+├── source_code.py 					: Same as source code.ipynb but in Python format. Not Recommended
+├── Report.pdf 						: Report on this assignment 2. This also includes Executive Summary.
+├── Executive Summary.pdf 				: Copy of Executive Summary of the report.
 ├── data
 │	├── Dillards POS
-│	│	├── trnsact.csv 	: Original data file. Download it as explained in "How to run" section.
-│	│	├── skstinfo.csv					: Original data file. Download it as explained in "How to run" section.
+│	│	├── trnsact.csv 			: Original data file. Download it as explained in "How to run" section.
+│	│	├── skstinfo.csv		: Original data file. Download it as explained in "How to run" section.
 │	│	├── strinfo.csv				: Original data file.
-│	│	├── skuinfo.csv					: Original data file. Download it as explained in "How to run" section.
-│	│	├── deptinfo.csv					: Original data file.
-│	│	├── trnsact_labelled.csv 	: Original data file with labels. Download it as explained in "How to run" section.
-│	│	├── skstinfo_labelled.csv					: Original data file with labels. Download it as explained in "How to run" section.
+│	│	├── skuinfo.csv				: Original data file. Download it as explained in "How to run" section.
+│	│	├── deptinfo.csv			: Original data file.
+│	│	├── trnsact_labelled.csv 		: Original data file with labels. Download it as explained in "How to run" section.
+│	│	├── skstinfo_labelled.csv	: Original data file with labels. Download it as explained in "How to run" section.
 │	│	├── strinfo_labelled.csv				: Original data file with labels.
 │	│	├── skuinfo_labelled.csv					: Original data file with labels. Download it as explained in "How to run" section.
 │	│	├── deptinfo_labelled.csv					: Original data file with labels.
@@ -52,10 +52,10 @@ IEMS308_Assignment2
 │   └── which_SKU_to_WHERE.csv 			:  About what SKU to move to where 
 └── img
 	├── return rate.png 				: Step 1.3.1.
-	├── return rate  (only 0% to 100%).png					: Step 1.3.1.
+	├── return rate  (only 0% to 100%).png	: Step 1.3.1.
 	├── Distribution of number of unique SKUs that each store has.png    : Step 1.3.3.
 	├── Number of transactions per day.png		: Step 1.3.2.
-	└── How much does each STORE support my proposed SKU rearrangement plan?.png				: Step 4.4.
+	└── How much does each STORE support my proposed SKU rearrangement plan?.png	: Step 4.4.
 ```
 
 ## Author
