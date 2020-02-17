@@ -29,22 +29,22 @@ IEMS308_Assignment2
 ├── Report.pdf 						: Report on this assignment 2. This also includes Executive Summary.
 ├── Executive Summary.pdf 				: Copy of Executive Summary of the report.
 ├── data
-│    │── Dillards POS
-│    │	├── trnsact.csv 			: Original data file. Download it as explained in "How to run" section.
-│    │	├── skstinfo.csv		: Original data file. Download it as explained in "How to run" section.
-│    │	├── strinfo.csv				: Original data file.
-│    │	├── skuinfo.csv				: Original data file. Download it as explained in "How to run" section.
-│    │	├── deptinfo.csv			: Original data file.
-│    │	├── trnsact_labelled.csv 		: Original data file with labels. Download it as explained in "How to run" section.
-│    │	├── skstinfo_labelled.csv	: Original data file with labels. Download it as explained in "How to run" section.
-│    │	├── strinfo_labelled.csv				: Original data file with labels.
-│    │	├── skuinfo_labelled.csv					: Original data file with labels. Download it as explained in "How to run" section.
-│    │	├── deptinfo_labelled.csv					: Original data file with labels.
-│    │	├── trnsact_labelled_filtered0.csv	: Intermediate filtered trnsact data. Download it as explained in "How to run" section.
-││	├── trnsact_labelled_filtered1.csv				: Intermediate filtered trnsact data. Download it as explained in "How to run" section.
-││	├── trnsact_labelled_filtered.csv				: Final filtered trnsact data.
-││	├── strinfo_labelled_filtered.csv					: Filtered strinfo data
-││	├── skstinfo_labelled_filtered.csv					: Filtered skstinfo data
+│   │── Dillards POS
+│   │	├── trnsact.csv 			: Original data file. Download it as explained in "How to run" section.
+│   │	├── skstinfo.csv		: Original data file. Download it as explained in "How to run" section.
+│   │	├── strinfo.csv				: Original data file.
+│   │	├── skuinfo.csv				: Original data file. Download it as explained in "How to run" section.
+│   │	├── deptinfo.csv			: Original data file.
+│   │	├── trnsact_labelled.csv 		: Original data file with labels. Download it as explained in "How to run" section.
+│   │	├── skstinfo_labelled.csv	: Original data file with labels. Download it as explained in "How to run" section.
+│   │	├── strinfo_labelled.csv				: Original data file with labels.
+│   │	├── skuinfo_labelled.csv					: Original data file with labels. Download it as explained in "How to run" section.
+│   │	├── deptinfo_labelled.csv					: Original data file with labels.
+│   │	├── trnsact_labelled_filtered0.csv	: Intermediate filtered trnsact data. Download it as explained in "How to run" section.
+│   │	├── trnsact_labelled_filtered1.csv				: Intermediate filtered trnsact data. Download it as explained in "How to run" section.
+│   │	├── trnsact_labelled_filtered.csv				: Final filtered trnsact data.
+│   │	├── strinfo_labelled_filtered.csv					: Filtered strinfo data
+│   │	├── skstinfo_labelled_filtered.csv					: Filtered skstinfo data
 │   │   └── sku_deptinfo_labelled_filtered.csv 				: Filtered skuinfo and deptinfo data (combined)
 │   ├── AssocRules.csv 					:  Association rules filtered based on minsup, minconf, and minlift
 │   ├── ForApriori.csv 					:  Data that gets fed to create AssocRules. Download it as explained in "How to run" section.
